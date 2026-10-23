@@ -1,0 +1,4 @@
+profile: kafka
+resourceName: back-office-broker
+storage:
+  size: 2Gi
